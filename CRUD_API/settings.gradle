@@ -1,0 +1,2 @@
+rootProject.name = "CRUD_API"
+include ':app'
